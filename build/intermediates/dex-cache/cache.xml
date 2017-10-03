@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/touch5/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/touch5/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/retrofit-2.3.0_29a950c257e7d108d15818b0bfe228430d749d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/touch5/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/touch5/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/okhttp-3.8.0_81e13863139411d0b83b8c7d1ae6e12410e619ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/touch5/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/touch5/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/gson-2.7_f638387d09a6f62da3cb9891736b55bc36e23bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/touch5/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/touch5/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/converter-gson-2.3.0_f51b46fc2b366af6abae1e81ab793ca759f82fc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/touch5/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/touch5/Downloads/MyApplication/app/build/intermediates/pre-dexed/debug/okio-1.13.0_969e1f25f8f0aa6c91e3f39772513fa984fa2e62.jar" />
+    </item>
+
+</items>
